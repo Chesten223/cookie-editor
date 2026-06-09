@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cookie-editor-site.pages.dev/sitemap.xml
